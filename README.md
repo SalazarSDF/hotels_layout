@@ -1,3 +1,1 @@
-# hotels_layout
-
-gh-pages: https://salazarsdf.github.io/hotels_layout/
+# DEMO: https://salazarsdf.github.io/hotels_layout/
